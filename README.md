@@ -1,2 +1,2 @@
 # Settimana-introduttiva
-settimana-introduttiva Corso serale MiaTech
+settimana introduttiva - Corso serale MiaTech
